@@ -3,7 +3,8 @@ import hashlib
 import io
 
 
-# assigns the values passed in at the command line to variables
+# assigns the values passed in at the command line to variables, you can hardcode these values in instead of
+# passing them via an interactive script if you'd like.
 user_api_key = None 
 file = None
 
